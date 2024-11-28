@@ -1,3 +1,4 @@
+* 28/11/2024 - [Mireia Trepat (Freshly Cosmetics): "No duré ni un año trabajando para otros"](https://www.expansion.com/directivos/2024/11/28/67476412468aeb410b8b456e.html) - Núria Serrano @ Expansión
 * 20/11/2024 - [De l'èxit de Reus a 52 futurs acomiadaments: quins són els plans de futur de Freshly Cosmetics?](https://www.viaempresa.cat/empresa/exit-reus-52-futurs-acomiadaments-quins-son-plans-futur-freshly-cosmetics_2205907_102.html) - Gemma Fontseca @ Via Empresa
 * 12/11/2024 - [Freshly negocia un ERE sobre el 18% de su plantilla por la caída del comercio 'online'](https://www.elperiodico.com/es/economia/20241112/freshly-negocia-ere-18-plantilla-111619469) - Paula Clemente @ El Periódico
 * 08/11/2024 - [El ERE de Freshly afectará a 52 empleados de Reus](https://www.diaridetarragona.com/reus/el-ere-de-freshly-afectara-a-52-empleados-de-reus-DK21817567) - ACN @ Diari de Tarragona
