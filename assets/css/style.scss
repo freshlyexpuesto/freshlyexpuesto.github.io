@@ -16,3 +16,16 @@
   font-weight: 600;
   font-family: "Parkinsans", sans-serif;
 }
+
+.container-iframe {
+    display: flex; /* Optional: To ensure iframe is centered */
+    justify-content: center; /* Optional */
+    width: 100%;
+    max-width: 500px;
+}
+
+iframe {
+    width: 100%;
+    height: auto; /* Ensures height scales proportionally if iframe content supports it */
+    border: none; /* Optional: Removes border */
+}
