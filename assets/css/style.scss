@@ -26,6 +26,7 @@
 
 iframe {
     width: 100%;
+    min-height: 280px;
     height: auto; /* Ensures height scales proportionally if iframe content supports it */
     border: none; /* Optional: Removes border */
 }
