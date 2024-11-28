@@ -1,1 +1,18 @@
+---
+---
 
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@400..800&display=swap');
+
+.page-header {
+  background-color: black;
+  color: #fbed07;
+  background-image: none;
+  font-family: "Parkinsans", sans-serif;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: black;
+  font-weight: 600;
+  font-family: "Parkinsans", sans-serif;
+}
