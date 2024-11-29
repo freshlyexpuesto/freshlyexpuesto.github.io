@@ -18,8 +18,7 @@
 }
 
 .container-iframe {
-    display: flex; /* Optional: To ensure iframe is centered */
-    justify-content: center; /* Optional */
+    display: block; /* Optional: To ensure iframe is centered */
     width: 100%;
     max-width: 500px;
 }
@@ -29,6 +28,7 @@ iframe {
     height: auto; /* Ensures height scales proportionally if iframe content supports it */
     border: none; /* Optional: Removes border */
     min-height: 250px;
+    margin-top: 20px;
  
     @media (min-width: 768px) {
       min-height: 280px;
