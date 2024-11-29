@@ -1,7 +1,7 @@
 ---
 layout: ere
 title: "Freshly ERO"
-description: "Assemblea d'afectats"
+description: "Assemblea d'afectats per l'ERO (Expedient de Regulació d'Ocupació)"
 ---
 
 Català | [Castellano](/es)

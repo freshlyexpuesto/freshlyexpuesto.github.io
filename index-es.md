@@ -1,7 +1,7 @@
 ---
 layout: ere
 title: "Freshly ERE"
-description: "Asamblea de afectados"
+description: "Asamblea de afectados por el ERE (Expediente de Regulación de Empleo)"
 permalink: /es/
 ---
 

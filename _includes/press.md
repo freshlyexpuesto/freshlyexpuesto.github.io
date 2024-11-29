@@ -1,3 +1,8 @@
+* 29/11/2024 - [Els treballadors afectats per l’ERO a Freshly Cosmetics, en peu de guerra](https://canalreus.cat/noticies/economia/els-treballadors-afectats-per-lero-a-freshly-cosmetics-en-peu-de-guerra/) Clara Marquiegui @ Canal Reus
+* 29/11/2024 - [«Maximitzar beneficis a qualsevol preu»: el personal afectat per l'ERO critica la gestió de Freshly Cosmetics](https://tarragonadigital.com/societat/personal-afectat-ero-freshly-cosmetics-critica-previsions-beneficis_2059877_102.html) @ TarragonaDigital
+* 29/11/2024 - [Protestes per l’ERE de Freshly Cosmetics: treballadors denuncien condicions i falta d’ètica](https://www.diarimes.com/ca/reus/241129/protestes-per-l-ere-freshly-cosmetics-treballadors-denuncien-condicions-i-falta-d-etica_159490.html) - Redacció @ Diari Més
+* 29/11/2024 - [Freshly Cosmetics anuncia un ERE sobre el 18% de su plantilla](https://marketing4ecommerce.net/freshly-cosmetics-anuncia-un-ere/) - Rafael Sotelo @ Marketing4eCommerce
+* 29/11/2024 - [Freshly Cosmetics anuncia un ERE que afectará al 18% de la plantilla](https://ecommerce-news.es/freshly-cosmetics-anuncia-un-ere-que-afectara-al-18-de-la-plantilla/) @ Ecommerce News
 * 26/11/2024 - [Els afectats per l'ERO a Freshly Cosmetics alcen la veu](https://reusdigital.cat/noticies/economia/els-afectats-lero-freshly-cosmetics-alcen-la-veu) - Raúl Rodríguez @ reusdigital.cat
 * 16/11/2024 - [Un ERE poco Freshly](https://www.diarimes.com/es/opinion/tribuna/241119/ere-poco-freshly_158040.html) - Marga Vilà @ Diari Més
 * 24/07/2023 - [Freshly Cosmetics es disculpa amb els seus empleats pels abusos laborals denunciats a l'ARA](https://www.ara.cat/economia/mercat-laboral/freshly-cosmetics-disculpa-empleats-pels-abusos-laborals-denunciats-l-ara_1_4764368.html) - Paula Solanas Alfaro @ Ara
