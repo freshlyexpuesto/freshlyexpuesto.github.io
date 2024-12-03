@@ -1,9 +1,8 @@
 ---
 layout: ere
-title: "Freshly ERO"
-description: "Assemblea d'afectats per l'ERO (Expedient de Regulació d'Ocupació)"
+title: "Tesimonios - Freshly ERE"
+description: "Historias reales detrás de Freshly, testimonios de ex trabajador@s"
 permalink: "/testminoios-freshly/"
-
 
 ---
 
