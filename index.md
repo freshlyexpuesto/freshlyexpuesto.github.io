@@ -20,6 +20,10 @@ Aquest ERO no només afecta les nostres vides, sinó que també reflecteix la ma
 
 **¡Units som més forts!**
 
+## 🔥 S'en parla a les xarxes
+
+{% include hot.md %}
+
 ## Premsa
 
 ### El que no et dirà l'empresa
