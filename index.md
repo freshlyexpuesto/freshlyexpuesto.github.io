@@ -4,9 +4,7 @@ title: "Freshly ERO"
 description: "Assemblea d'afectats per l'ERO (Expedient de Regulació d'Ocupació)"
 ---
 
-Català | [Castellano](/es)
-
-## Manifest
+### Manifest
 
 Considerem que ha arribat el moment d'alçar la veu i mostrar la nostra decepció i enuig respecte a una situació que ens afecta profundament, tant personal com professionalment: l'Expedient de Regulació d'Ocupació (ERO) plantejat per Freshly, en què estem afectats. L'acomiadament col·lectiu previst de 52 persones impacta no només les nostres carreres, sinó també les nostres vides personals per la manera en què l'empresa l'està desenvolupant i actuant en tot el procés. Això exigeix una resposta col·lectiva, ferma i organitzada.
 
@@ -20,29 +18,29 @@ Aquest ERO no només afecta les nostres vides, sinó que també reflecteix la ma
 
 **¡Units som més forts!**
 
-## 🔥 S'en parla a les xarxes
+### 🔥 S'en parla a les xarxes
 
 {% include hot.md %}
 
-## Premsa
+### Premsa
 
-### El que no et dirà l'empresa
+#### El que no et dirà l'empresa
 
 {% include press.md %}
 
 
-### El que et dirà l'empresa
+#### El que et dirà l'empresa
 
 {% include press-corporate.md %}
 
-## Televisió
+### Televisió
 
 {% include tv.md %}
 
-## Xarxes
+### Xarxes
 
 {% include social.md %}
 
-## Contacte
+### Contacte
 
 📬 [freshlyere@gmail.com](mailto:freshlyere@gmail.com)
