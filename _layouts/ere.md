@@ -21,7 +21,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{  page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
-        <a href="/testimonios-freshly/ class="btn">🔥 Testimonis</a>
+        <a href="/testimonios-freshly/" class="btn">🔥 Testimonios</a>
         <a href="/" class="btn">català</a>
         <a href="/es/" class="btn">Castellano</a>
     </header>
