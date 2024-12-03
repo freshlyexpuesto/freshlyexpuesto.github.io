@@ -21,13 +21,9 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{  page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+        <a href="/testimonios-freshly/ class="btn">🔥 Testimonis</a>
+        <a href="/" class="btn">català</a>
+        <a href="/es/" class="btn">Castellano</a>
     </header>
 
     <main id="content" class="main-content" role="main">
