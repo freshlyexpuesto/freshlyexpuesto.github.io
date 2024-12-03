@@ -5,10 +5,8 @@ description: "Asamblea de afectados por el ERE (Expediente de Regulación de Emp
 permalink: /es/
 ---
 
-[Català](/) | Castellano
 
-
-## Manifesto
+### Manifesto
 
 Consideramos que ha llegado el momento de levantar la voz y mostrar nuestra decepción y enfado en relación a una situación que nos afecta profundamente, tanto personal como profesionalmente:  el Expediente de Regulación de Empleo (ERE) planteado por Freshly, en el que estamos afectados. El despido colectivo previsto de 52 personas impacta no solo nuestras carreras, sino también a nuestras vidas personales por la forma en que la empresa está  desarrollando y actuando en  todo el proceso. Ello exige una respuesta colectiva, firme y organizada.
 
@@ -22,29 +20,29 @@ Este ERE no solo afecta a nuestras vidas, sino que también refleja la forma en 
 
 **¡Unidos somos más fuertes!**
 
-## 🔥 Se habla en las redes
+### 🔥 Se habla en las redes
 
-{% include hot.md %}
+{% inclu#de hot.md %}
 
 ## Prensa
 
-### Lo que no te contará la empresa
+#### Lo que no te contará la empresa
 
 {% include press.md %}
 
 
-### Lo que te contará la empresa
+#### Lo que te contará la empresa
 
 {% include press-corporate.md %}
 
-## Television 
+### Television 
 
 {% include tv.md %}
 
-## Redes
+### Redes
 
 {% include social.md %}
 
-## Contacto
+### Contacto
 
 📬 [freshlyere@gmail.com](mailto:freshlyere@gmail.com)
