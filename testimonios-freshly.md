@@ -1,7 +1,7 @@
 ---
 layout: ere
-title: "Testimonios - Freshly ERE"
-description: "Historias reales detrás de Freshly, testimonios de ex trabajador@s"
+meta_title: "Testimonios - Freshly ERE"
+meta_description: "Historias reales detrás de Freshly, testimonios de ex trabajador@s"
 permalink: "/testimonios-freshly/"
 
 ---
