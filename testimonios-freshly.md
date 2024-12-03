@@ -1,12 +1,12 @@
 ---
 layout: ere
-title: "Tesimonios - Freshly ERE"
+title: "Testimonios - Freshly ERE"
 description: "Historias reales detrás de Freshly, testimonios de ex trabajador@s"
-permalink: "/testminoios-freshly/"
+permalink: "/testimonios-freshly/"
 
 ---
 
-## Testimonios
+### Testimonios
 
 Historias reales detrás de Freshly
 
