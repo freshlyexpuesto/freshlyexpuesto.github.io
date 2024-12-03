@@ -20,6 +20,11 @@ Este ERE no solo afecta a nuestras vidas, sino que también refleja la forma en 
 
 **¡Unidos somos más fuertes!**
 
+👤 ¿Quienes somos?
+
+{% include quienes-somos.md %}
+
+
 ### 🔥 Se habla en las redes
 
 {% include hot.md %}
