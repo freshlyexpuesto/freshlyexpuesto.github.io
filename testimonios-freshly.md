@@ -1,7 +1,7 @@
 ---
 layout: ere
 title: "Freshly ERE"
-description "Asamblea de afectados por el ERE (Expediente de Regulación de Empleo)"
+description: "Asamblea de afectados por el ERE (Expediente de Regulación de Empleo)"
 meta_title: "Testimonios - Freshly ERE"
 meta_description: "Historias reales detrás de Freshly, testimonios de ex trabajador@s"
 permalink: "/testimonios-freshly/"
