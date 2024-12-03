@@ -11,7 +11,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="description" content="{{ page.meta_description | default: site.description }}">
     <meta name="keywords" content="freshly,freshly cosmetics,cosmètica natural,cosmètica vegana,cosmètica cruelty-free, freshly ere, freshly ero">
-    <title>{{ page.title | default: site.title }}</title>
+    <title>{{ page.meta_title | default: site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
