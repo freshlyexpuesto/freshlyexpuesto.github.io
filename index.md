@@ -18,6 +18,13 @@ Aquest ERO no només afecta les nostres vides, sinó que també reflecteix la ma
 
 **¡Units som més forts!**
 
+### 👤 Qui som?
+
+<div class="slider">
+  <img src="/assets/img/afectados/15.png" alt="+35% de oficinas centrales">
+  <img src="/assets/img/afectados/16.png" alt="Una madre que dio a luz la semana antes del ERE">
+</div>
+
 ### 🔥 S'en parla a les xarxes
 
 {% include hot.md %}
