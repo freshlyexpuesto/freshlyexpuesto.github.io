@@ -22,6 +22,10 @@ Este ERE no solo afecta a nuestras vidas, sino que también refleja la forma en 
 
 **¡Unidos somos más fuertes!**
 
+## 🔥 Se habla en las redes
+
+{% include hot.md %}
+
 ## Prensa
 
 ### Lo que no te contará la empresa
