@@ -22,9 +22,9 @@ Este ERE no solo afecta a nuestras vidas, sino que también refleja la forma en 
 
 ### 🔥 Se habla en las redes
 
-{% inclu#de hot.md %}
+{% include hot.md %}
 
-## Prensa
+### Prensa
 
 #### Lo que no te contará la empresa
 
