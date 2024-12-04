@@ -15,4 +15,35 @@ El propósito de esta página es dar visibilidad a las voces de clientes, exclie
 <img src="/assets/img/comments/alba-rames.png" alt="">
 > vergüenza os debería dar lo que habéis hecho con 52 trabajadores despedidos a un mes de Navidad!! BOICOT!
 
-<img src="/assets/img/comments/ali_roro" alt="">
+<img src="/assets/img/comments/ali_roro.png" alt="">
+
+<img src="/assets/img/comments/batgirl.png" alt="">
+
+<img src="/assets/img/comments/cristigola.png" alt="">
+
+<img src="/assets/img/comments/diana.png" alt="">
+
+<img src="/assets/img/comments/entoncesquienes.jpg" alt="">
+
+<img src="/assets/img/comments/everithing.png" alt="">
+
+<img src="/assets/img/comments/gopro.png" alt="">
+
+<img src="/assets/img/comments/karsiopea.png" alt="">
+
+<img src="/assets/img/comments/lunadona.png" alt="">
+
+<img src="/assets/img/comments/martinacaramala.png" alt="">
+
+<img src="/assets/img/comments/nami-2.png" alt="">
+
+<img src="/assets/img/comments/nami.png" alt="">
+
+<img src="/assets/img/comments/pilarvaor.png" alt="">
+
+<img src="/assets/img/comments/rina.png" alt="">
+
+<img src="/assets/img/comments/shelenitaj.png" alt="">
+
+<img src="/assets/img/comments/tatsuki.png" alt="">
+
