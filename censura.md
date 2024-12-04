@@ -17,11 +17,26 @@ El propósito de esta página es dar visibilidad a las voces de clientes, exclie
 
 <img src="/assets/img/comments/ali_roro.png" alt="">
 
+> Dejo de ser clienta, tanto productos para mí como para mi hijo. Estas 52 personas tienen una vida y sus dificultades. Ciao. Y vaya, 0 jefes y jefas...
+
 <img src="/assets/img/comments/batgirl.png" alt="">
+
+ > Venga ese erteeeeeee para maximizar beneficios
 
 <img src="/assets/img/comments/cristigola.png" alt="">
 
+> Ayudar a las familias, decís ...... Os importan realmente??? No se, pregunto
+> Y vuestro ErE de 52 personas cómo va???
+
 <img src="/assets/img/comments/diana.png" alt="">
+
+> sabemos lo del ERE. people first? WHERE???
+
+> Ahora sois frERly????
+
+> y lo del ERE que? vasi a decir algo?
+
+> PEOPLE FIRST
 
 <img src="/assets/img/comments/entoncesquienes.jpg" alt="">
 
