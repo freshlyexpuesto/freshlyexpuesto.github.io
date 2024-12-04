@@ -22,7 +22,7 @@ Aquest ERO no només afecta les nostres vides, sinó que també reflecteix la ma
 
 {% include quienes-somos.md %} 
 
-### 🔥 S'en parla a les xarxes
+### 🔥 Se'n parla a les xarxes
 
 {% include hot.md %}
 
