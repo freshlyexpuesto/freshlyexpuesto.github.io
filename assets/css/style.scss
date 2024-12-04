@@ -39,7 +39,6 @@ iframe {
 .slider {
   aspect-ratio: 8 / 10;
   width: 300px;
-  /* height: 375px; */
   position: relative;
   display: flex;
   overflow-x: scroll;
@@ -48,9 +47,12 @@ iframe {
   img {
     width: 100%;
     left: 0;
-    position: relative;
+    position: sticky;
     object-fit: cover;
     border-radius: 5px;
-    flex-shrink: 0;
+    @supports (-moz-appearance: none) {
+        flex-shrink: 0;
+        position: relative;
+    }
   }
 }
