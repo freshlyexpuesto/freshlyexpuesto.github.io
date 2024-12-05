@@ -5,6 +5,14 @@ description: "Asamblea de afectados por el ERE (Expediente de Regulación de Emp
 permalink: /es/
 ---
 
+### Acuerdo 5 diciembre de 2024
+
+En la última sesión de las negociaciones, la comisión representativa de los trabajadores y Freshly Cosmetics llegan a un acuerdo para poner fin al Expediente de Regulación de Empleo (que comenzó el pasado 7 de noviembre). Ambas partes firman las siguientes condiciones:
+
+- Indemnización de 33 días por año trabajado o proporcional, con un mínimo de 3.000 euros.
+- La empresa se hace cargo de las costas de asesoramiento legal de la plantilla afectada 
+
+Aún no siendo el acuerdo que hubiéramos deseado, las trabajadoras y trabajadores afectados por este ERE ponemos punto final  a un proceso que ha sido doloroso y difícil para todos.
 
 ### Manifesto
 
