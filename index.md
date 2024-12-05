@@ -4,6 +4,14 @@ title: "Freshly ERO"
 description: "Assemblea d'afectats per l'ERO (Expedient de Regulació d'Ocupació)"
 ---
 
+### Acord a 5 desembre de 2024
+
+En la darrera sessió de les negociacions, la comissió representativa de les treballadores i treballadors i Freshly Cosmetics arriben a un acord per posar fi a l'Expedient de Regulació d'Ocupació (que va començar el passat 7 de novembre). Totes dues parts signen les següents condicions:
+- Indemnització de 33 dies per any treballat o proporcional, amb un mínim de 3.000 euros.
+- L'empresa es fa càrrec de les costes d'assessorament legal del personal afectat.
+
+Encara que no sigui l'acord que haguéssim desitjat, les treballadores i treballadors afectats per aquest ERO tanquem un procés que ha estat dolorós i difícil per a tothom.
+
 ### Manifest
 
 Considerem que ha arribat el moment d'alçar la veu i mostrar la nostra decepció i enuig respecte a una situació que ens afecta profundament, tant personal com professionalment: l'Expedient de Regulació d'Ocupació (ERO) plantejat per Freshly, en què estem afectats. L'acomiadament col·lectiu previst de 52 persones impacta no només les nostres carreres, sinó també les nostres vides personals per la manera en què l'empresa l'està desenvolupant i actuant en tot el procés. Això exigeix una resposta col·lectiva, ferma i organitzada.
